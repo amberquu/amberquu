@@ -34,7 +34,7 @@ I'm interested in the intersection of **technology and business** — building t
 ## 📚 Background
 
 - 🎓 **NYU** — M.S. Information Science *(incoming)*
-- 🎓 **SCNU × University of Aberdeen** — B.Sc. Software Engineering, 2:1 Honours
+- 🎓 **SCNU × University of Aberdeen** — B.Sc. Information Systems, 2:1 Honours
 - 🌏 **UBC Sauder** — Exchange, Business & Technology
 
 ---
