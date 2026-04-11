@@ -2,7 +2,7 @@
 
 **Information Science @ NYU · CS & Finance · Product · Data**
 
-I'm a graduate student at **NYU** studying Information Science, with a background in Software Engineering from SCNU (Aberdeen Joint Programme) and exchange experience at **University of Leeds**, summer program at **UBC Sauder**.
+I'm a graduate student at **JHU** studying Artificial Intelligent and Information Science, with a background in Information Systems from SCNU (Aberdeen Joint Programme) and exchange experience at **University of Leeds**, summer program at **UBC Sauder**.
 
 I'm interested in the intersection of **technology and business**, building things that are both technically sound and genuinely useful, with a focus on responsible AI.
 
@@ -33,7 +33,7 @@ I'm interested in the intersection of **technology and business**, building thin
 
 ## 📚 Background
 
-- 🎓 **NYU** — M.S. Information Science *(incoming)*
+- 🎓 **JHU** — M.S. Artificial Intelligent and Information Science *(incoming)*
 - 🎓 **SCNU × University of Aberdeen** — B.Sc. Information Systems, 2:1 Honours
 - 🇬🇧 **University of Leeds** — Exchange, CS & Consulting
 - 🌍 **UBC Sauder** - Entrepreneurship & Innovation
