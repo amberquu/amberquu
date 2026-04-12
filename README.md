@@ -12,10 +12,13 @@ I'm interested in the intersection of **technology and business**, building thin
 
 | Project | Description | Stack |
 |---|---|---|
+| [📄 JD Resume Matcher](https://github.com/amberquu/jd-resume-matcher) | Local tool that matches resumes against JDs, identifies gaps, and rewrites with Gemini using big-tech HR principles | Python · Streamlit · jieba · Gemini API |
+| [🏢 Dachang Resume Skill](https://github.com/amberquu/jd-resume-matcher) | Claude Code skill applying big-tech HR principles: keyword injection, STAR structure, anti-AI-writing rules | Claude Code · Prompt Engineering |
 | [🎮 LoL Database](https://github.com/amberquu/lol-database) | Relational DB + analytics for League of Legends ranked match data | Python · SQLite · SQL |
 | [🎬 Movie Prediction](https://github.com/amberquu/movie-prediction) | ML model predicting box office profitability from pre-release features | scikit-learn · pandas |
 | [⚡ Smart Charge](https://github.com/amberquu/smart-charge) | EV charging optimiser using dynamic pricing + renewable energy scheduling | Python · NumPy |
 | [📱 Library Mini-program](https://github.com/amberquu/library-miniprogram) | WeChat Mini-Program prototype for university seat reservation | HTML · CSS · JS |
+
 
 ---
 
