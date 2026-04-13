@@ -12,6 +12,7 @@ I'm interested in the intersection of **technology and business**, building thin
 
 | Project | Description | Stack |
 |---|---|---|
+| [🎬 Douyin Analytics Agent](https://github.com/amberquu/douyin-analytics-agent) | Conversational AI agent for Douyin content creators — chat to get live account retrospectives, video performance breakdowns, and content strategy advice | Python · Flask · Gemini API · Chrome CDP |
 | [📄 JD Resume Matcher](https://github.com/amberquu/jd-resume-matcher) | Local tool that matches resumes against JDs, identifies gaps, and rewrites with Gemini using big-tech HR principles | Python · Streamlit · jieba · Gemini API |
 | [🏢 Dachang Resume Skill](https://github.com/amberquu/jd-resume-matcher) | Claude Code skill applying big-tech HR principles: keyword injection, STAR structure, anti-AI-writing rules | Claude Code · Prompt Engineering |
 | [🎮 LoL Database](https://github.com/amberquu/lol-database) | Relational DB + analytics for League of Legends ranked match data | Python · SQLite · SQL |
