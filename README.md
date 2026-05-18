@@ -1,8 +1,8 @@
 # Hi, I'm Caiyu (Amber) Qu 👋
 
-**AI @ JHU · CS & Finance · Product · Data**
+**AI @ NYU · CS & Finance · Research · Data**
 
-I'm a graduate student at **JHU** studying Artificial Intelligent and Information Science, with a background in Information Systems from SCNU (Aberdeen Joint Programme) and exchange experience at **University of Leeds**, summer program at **UBC Sauder**.
+I'm a graduate student at **NYU** studying Information Science, with a background in Information Systems from SCNU (Aberdeen Joint Programme) and exchange experience at **University of Leeds**, summer program at **UBC Sauder**.
 
 I'm interested in the intersection of **technology and business**, building things that are both technically sound and genuinely useful, with a focus on responsible AI.
 
@@ -37,7 +37,7 @@ I'm interested in the intersection of **technology and business**, building thin
 
 ## 📚 Background
 
-- 🎓 **JHU** — M.S. Artificial Intelligent and Information Science *(incoming)*
+- 🎓 **NYU** — M.S. Information Science *(incoming)*
 - 🎓 **SCNU × University of Aberdeen** — B.Sc. Information Systems, 2:1 Honours
 - 🇬🇧 **University of Leeds** — Exchange, CS & Consulting
 - 🌍 **UBC Sauder** - Entrepreneurship & Innovation
